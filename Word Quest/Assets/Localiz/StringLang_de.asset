@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLang_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 0bbfa439ef9517b4fa21d0466bdba07e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21644169216
+    m_Localized: Klassisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806436196352
+    m_Localized: Punktzahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1181138538496
+    m_Localized: Einreichen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760560664576
+    m_Localized: Beste Punktzahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447646380032
+    m_Localized: "N\xE4chste"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2706141335552
+    m_Localized: Geheimwort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3253997129728
+    m_Localized: Profil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623070715904
+    m_Localized: Statistiken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3776754208768
+    m_Localized: Gewonnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3788481482752
+    m_Localized: Verloren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4158784000000
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4386761199616
+    m_Localized: Sprache & Ton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4663711092736
+    m_Localized: Ton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4798289530880
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5305464770560
+    m_Localized: Wiederholen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15505336815616
+    m_Localized: Melden Sie sich bei Ihrem Konto an
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15771465404416
+    m_Localized: Anmelden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16010448457728
+    m_Localized: Ein Konto erstellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16320575295488
+    m_Localized: Deine E-Mail-Adresse...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16657839280128
+    m_Localized: 'E-Mail:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16916460064768
+    m_Localized: Geben Sie Ihr Passwort ein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17150938435584
+    m_Localized: Ihr Passwort...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17436838973440
+    m_Localized: Ein neues Konto erstellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17813797851136
+    m_Localized: Registrieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17946526601216
+    m_Localized: Schon einen Account?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18938718572544
+    m_Localized: "Passwort best\xE4tigen:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19258613944320
+    m_Localized: Geben Sie Ihr Passwort erneut ein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19713725288448
+    m_Localized: Ihr Konto wurde erfolgreich erstellt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19989681131520
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20340396249088
+    m_Localized: Willkommen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386292338118656
+    m_Localized: Ich habe mein Passwort vergessen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389630911827968
+    m_Localized: "Setze dein Passwort zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390708025872384
+    m_Localized: Bitte geben Sie Ihre E-Mail-Adresse ein*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391615534845952
+    m_Localized: "Ein Link zum Zur\xFCcksetzen des Passworts wird an Ihre E-Mail-Adresse
+      gesendet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391948508057600
+    m_Localized: "Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392744670842880
+    m_Localized: "Der Link zum Zur\xFCcksetzen des Passworts wurde erfolgreich gesendet."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

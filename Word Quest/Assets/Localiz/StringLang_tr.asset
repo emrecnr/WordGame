@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLang_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 0bbfa439ef9517b4fa21d0466bdba07e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21644169216
+    m_Localized: Klasik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806436196352
+    m_Localized: Puan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1181138538496
+    m_Localized: Dene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760560664576
+    m_Localized: "En \u0130yi Skor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447646380032
+    m_Localized: "\u0130lerle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2706141335552
+    m_Localized: Gizli Kelime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3253997129728
+    m_Localized: Profil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623070715904
+    m_Localized: "\u0130statistikler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3776754208768
+    m_Localized: "Kazan\u0131lan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3788481482752
+    m_Localized: Kaybedilen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4158784000000
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4386761199616
+    m_Localized: Dil ve Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4663711092736
+    m_Localized: Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4798289530880
+    m_Localized: "Titre\u015Fim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5305464770560
+    m_Localized: Tekrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15505336815616
+    m_Localized: "Hesab\u0131n\u0131za Giri\u015F Yap\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15771465404416
+    m_Localized: "Giri\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16010448457728
+    m_Localized: "Hesap Olu\u015Ftur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16320575295488
+    m_Localized: E-posta adresiniz...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16657839280128
+    m_Localized: 'E-posta:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16916460064768
+    m_Localized: "\u015Eifrenizi Girin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17150938435584
+    m_Localized: "\u015Eifreniz..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17436838973440
+    m_Localized: "Hesap Olu\u015Ftur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17813797851136
+    m_Localized: "Kay\u0131t Ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17946526601216
+    m_Localized: "Zaten bir hesab\u0131n\u0131z var m\u0131 ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18938718572544
+    m_Localized: "\u015Eifreyi Onayla:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19258613944320
+    m_Localized: "\u015Eifrenizi Tekrar Girin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19713725288448
+    m_Localized: "Hesab\u0131n\u0131z Ba\u015Far\u0131yla Olu\u015Fturuldu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19989681131520
+    m_Localized: Tamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20340396249088
+    m_Localized: "Ho\u015F geldiniz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386292338118656
+    m_Localized: "\u015Eifremi unuttum "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389630911827968
+    m_Localized: "\u015Eifreni S\u0131f\u0131rla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390708025872384
+    m_Localized: "L\xFCtfen e-mail adresinizi giriniz*"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391615534845952
+    m_Localized: "Email adresinize bir \u015Fifre s\u0131f\u0131rlama ba\u011Flant\u0131s\u0131
+      g\xF6nderilecektir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391948508057600
+    m_Localized: "S\u0131f\u0131rla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392744670842880
+    m_Localized: "\u015Eifre s\u0131f\u0131rlama ba\u011Flant\u0131s\u0131 ba\u015Far\u0131l\u0131
+      bir \u015Fekilde g\xF6nderilmi\u015Ftir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772311130558464
+    m_Localized: "Giri\u015F y\xF6ntemi se\xE7iniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772811351642112
+    m_Localized: Misafir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773173877919744
+    m_Localized: "E-mail - \u015Fifre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773471694475264
+    m_Localized: "\xD6nerilen*"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796785359966208
+    m_Localized: Bir takma ad belirle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 797065728217088
+    m_Localized: Takma ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 797123534114816
+    m_Localized: "Takma ad\u0131n\u0131z..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801255632392192
+    m_Localized: Minimum 3 karakter giriniz.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

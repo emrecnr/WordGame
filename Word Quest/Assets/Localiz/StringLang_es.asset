@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLang_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0bbfa439ef9517b4fa21d0466bdba07e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21644169216
+    m_Localized: "Cl\xE1sico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806436196352
+    m_Localized: "Puntuaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1181138538496
+    m_Localized: Presentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760560664576
+    m_Localized: "Mejor Puntuaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447646380032
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2706141335552
+    m_Localized: Palabra secreta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3253997129728
+    m_Localized: Perfil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623070715904
+    m_Localized: "Estad\xEDsticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3776754208768
+    m_Localized: Ganar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3788481482752
+    m_Localized: Perder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4158784000000
+    m_Localized: Configuraciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4386761199616
+    m_Localized: Idioma y Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4663711092736
+    m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4798289530880
+    m_Localized: "Vibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5305464770560
+    m_Localized: Reintentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15505336815616
+    m_Localized: "Inicia sesi\xF3n en tu cuenta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15771465404416
+    m_Localized: "Iniciar sesi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16010448457728
+    m_Localized: Crear una cuenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16320575295488
+    m_Localized: "Tu correo electr\xF3nico..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16657839280128
+    m_Localized: "Correo electr\xF3nico:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16916460064768
+    m_Localized: "Ingrese su contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17150938435584
+    m_Localized: "Su contrase\xF1a..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17436838973440
+    m_Localized: Crear una nueva cuenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17813797851136
+    m_Localized: Registrarse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17946526601216
+    m_Localized: "\xBFYa tienes una cuenta?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18938718572544
+    m_Localized: "Confirmar Contrase\xF1a:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19258613944320
+    m_Localized: "Vuelva a ingresar su contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19713725288448
+    m_Localized: Ha creado su cuenta exitosamente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19989681131520
+    m_Localized: Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20340396249088
+    m_Localized: Bienvenido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386292338118656
+    m_Localized: "Olvid\xE9 mi contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389630911827968
+    m_Localized: "Restablece tu contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390708025872384
+    m_Localized: "Por favor, ingresa tu direcci\xF3n de correo electr\xF3nico*"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391615534845952
+    m_Localized: "Se enviar\xE1 un enlace de restablecimiento de contrase\xF1a a
+      su direcci\xF3n de correo electr\xF3nico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391948508057600
+    m_Localized: Restablecer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392744670842880
+    m_Localized: "El enlace de restablecimiento de contrase\xF1a se ha enviado correctamente."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

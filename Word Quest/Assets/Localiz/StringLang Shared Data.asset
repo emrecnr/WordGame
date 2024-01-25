@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringLang Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringLang
+  m_TableCollectionNameGuidString: 0bbfa439ef9517b4fa21d0466bdba07e
+  m_Entries:
+  - m_Id: 21644169216
+    m_Key: Classic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1181138538496
+    m_Key: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806436196352
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760560664576
+    m_Key: Best Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447646380032
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2706141335552
+    m_Key: Secret Word
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3253997129728
+    m_Key: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623070715904
+    m_Key: Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3776754208768
+    m_Key: Won
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3788481482752
+    m_Key: Lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4158784000000
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4386761199616
+    m_Key: Language Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4663711092736
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4798289530880
+    m_Key: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5305464770560
+    m_Key: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15505336815616
+    m_Key: Login Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15771465404416
+    m_Key: Login Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16010448457728
+    m_Key: Register Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16320575295488
+    m_Key: Email Place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16657839280128
+    m_Key: 'Email Label
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16916460064768
+    m_Key: Password Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17150938435584
+    m_Key: Password Place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17436838973440
+    m_Key: RCreate Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17813797851136
+    m_Key: R Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17946526601216
+    m_Key: R Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18938718572544
+    m_Key: Confirm Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19258613944320
+    m_Key: Re-enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19713725288448
+    m_Key: Complete Capt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19989681131520
+    m_Key: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20340396249088
+    m_Key: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386292338118656
+    m_Key: Forgot Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389630911827968
+    m_Key: Password Reset Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390708025872384
+    m_Key: Please enter your email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391615534845952
+    m_Key: Reset Caption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391948508057600
+    m_Key: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392744670842880
+    m_Key: Reset Message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772311130558464
+    m_Key: Choose login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772811351642112
+    m_Key: Guest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773173877919744
+    m_Key: Email Pass log
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773471694475264
+    m_Key: Recommended
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796785359966208
+    m_Key: Choose Nick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 797065728217088
+    m_Key: Nickname Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 797123534114816
+    m_Key: Your Nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801255632392192
+    m_Key: 'Minimum 3 character '
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2389058931427901464
+  references:
+    version: 2
+    RefIds:
+    - rid: 2389058931427901464
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1705828035006
